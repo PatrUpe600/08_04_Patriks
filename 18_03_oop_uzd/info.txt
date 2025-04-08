@@ -1,0 +1,34 @@
+Name: Man
+Age: 2
+Taxonomy: Cat
+Weight: 45
+
+------------------------
+Carprofen dosage is 0.061
+------------------------
+
+
+Name: San
+Age: 3
+Taxonomy: Turtle
+Weight: 56
+
+------------------------
+Acepromazine dosage is 0.076
+------------------------
+Name: Perry
+Age: 8
+Taxonomy: Turtle
+Weight: 12
+
+------------------------
+Carprofen dosage is 0.016
+------------------------
+Name: Lenny
+Age: 3
+Taxonomy: Parrot
+Weight: 10
+
+------------------------
+Other treatment was used
+------------------------
